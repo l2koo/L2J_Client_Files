@@ -1,0 +1,1 @@
+40006	Buffer Master	L2GoodFeeling	0	80	FF	-1
